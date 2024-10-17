@@ -1,0 +1,5 @@
+{
+    "PROCESSOR":"BLOB",
+    "DATASOURCE":"teste",
+    "ENGINE":"sqlite"
+}
