@@ -43,7 +43,7 @@ pipeline = Audio_Processer()
 pipeline.audio_ingestion() # Audio Ingestion and Map in db
 pipeline.speech_recognition() # Audio Activity Identification 
 pipeline.cut_audios()  # Audio Cutter - Cut Speech segments
-pipeline.audio_transcription()  # Audio Cutter - Cut Speech segments
+pipeline.audio_transcription()  # Audio Transcription - Transcribe Segments
 ``` 
     
 Autor: Pascal Esteves
